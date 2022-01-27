@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipe!
 
 - 🔭 Procurando oportunidades
-- 🌱 Estudante Front-end
+- 🖥️ Estudando Front-end
 - 👨‍🎓 Grauduando em Análise e Desenvolvimento de Sistemas pela UNIP
 - 💼 Foco da carreira: Full-stack
 - 😄 Pronouns: ele/dele

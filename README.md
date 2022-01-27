@@ -1,7 +1,9 @@
 ## Olá, eu sou o Felipe!
 
-- 🔭 Atualmente procurando estágios.
-- 🌱 Aprendendo Desenvolvimento Web
+- 🔭 Procurando oportunidades
+- 🌱 Estudante Front-end
+- 👨‍🎓 Grauduando em Análise e Desenvolvimento de Sistemas pela UNIP
+- 💼 Foco da carreira: Full-stack
 - 😄 Pronouns: ele/dele
 
 ##

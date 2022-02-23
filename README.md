@@ -1,9 +1,9 @@
 ## Olá, eu sou o Felipe!
 
-- 🔭 Procurando oportunidades
-- 🖥️ Estudando Front-end
-- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pela UNIP
-- 💼 Foco da carreira: Full-stack
+- 🔭 Searching for opportunities
+- 🖥️ Learning Front-end
+- 👨‍🎓 Graduating in Systems Analysis and Development at UNIP
+- 💼 Career focus: Fullstack Developer
 - 😄 Pronouns: ele/dele
 
 ##

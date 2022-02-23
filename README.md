@@ -4,7 +4,6 @@
 - 🖥️ Learning Front-end
 - 👨‍🎓 Graduating in Systems Analysis and Development at UNIP
 - 💼 Career focus: Fullstack Developer
-- 😄 Pronouns: ele/dele
 
 ##
 

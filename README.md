@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipe!
 
-- 🔭 Searching for opportunities
-- 🖥️ Learning Front-end
+- 🔭 Intern at Frexco
+- 🖥️ Learning back-end with python and django
 - 👨‍🎓 Graduating in Systems Analysis and Development at UNIP
 - 💼 Career focus: Fullstack Developer
 

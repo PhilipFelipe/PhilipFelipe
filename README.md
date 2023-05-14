@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipe!
 
-- ⚙️:avocado: Intern at Frexco
-- 🖥️ Learning back-end with python and django
+- ⚙️:avocado: Back-end developer at Frexco
+- 🖥️ Always learning
 - 👨‍🎓 Graduating in Systems Analysis and Development at UNIP
 - 💼 Career focus: Fullstack Developer
 

@@ -1,7 +1,6 @@
-## Olá, eu sou o Felipe!
+## Hello, I'm Felipe!
 
-- ⚙️:avocado: Back-end developer at Frexco
-- 🖥️ Always learning
+- 🖥️ Backend Developer
 - 👨‍🎓 Graduating in Systems Analysis and Development at UNIP
 - 💼 Career focus: Fullstack Developer
 

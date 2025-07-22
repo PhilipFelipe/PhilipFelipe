@@ -1,8 +1,8 @@
 ## Hello, I'm Felipe!
 
 - 🖥️ Backend Developer
-- 👨‍🎓 Graduating in Systems Analysis and Development at UNIP
-- 💼 Career focus: Fullstack Developer
+- 👨‍🎓 Graduating in Systems Analysis and Development at ULBRA
+- 💼 Career focus: Software Engineer
 
 ##
 
